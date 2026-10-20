@@ -20,6 +20,6 @@ Ideal for controlled disruption and security testing. Based on 2.4GHz communicat
 
 It has a big range (over 30Meters+ - may vary on your antenna and hardware setup!) on newest Bluetooth versions with casual 2.4GHz antennas, you can easily increase this as well by taking some simple "bigger" router antennas. An amplifier (2.4GHz) may be a good option too
 
-<img width="1920" height="1080" alt="Show Wifi Password (3)" src="https://github.com/user-attachments/assets/5f2bfd19-1018-4413-b20b-28f6687c64b6" />
+
 <img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/61109d5d-4ab6-4a7c-8732-88f07ad0202f" />
 
