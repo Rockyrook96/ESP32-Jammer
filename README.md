@@ -1,8 +1,9 @@
 # ESP32-Jammer
 
 
-<img width="599" height="71" alt="jjj" src="https://github.com/user-attachments/assets/2bdf6837-ded3-4920-a0cb-b5935721b3a4" />
-<img width="1920" height="1080" alt="Show Wifi Password (1)" src="https://github.com/user-attachments/assets/6a35fc82-455d-4933-bdfb-f207de782cf5" />
+<img width="599" height="71" alt="jjj" src="https://github.com/user-attachments/assets/ca780cc7-7560-4e88-bb69-a9e0d1ec3cc2" />
+
+<img width="1920" height="1080" alt="Show Wifi Password (3)" src="https://github.com/user-attachments/assets/1c0a27cf-8d43-4d02-a84f-46e9b13f7ba0" />
 
 
 The device that can block signals and put lives at risk.It interferes with Bluetooth, Wi-Fi, cell phones, and even medical equipment.Improper use can cause serious safety risks.
@@ -18,4 +19,6 @@ Ideal for controlled disruption and security testing. Based on 2.4GHz communicat
 
 It has a big range (over 30Meters+ - may vary on your antenna and hardware setup!) on newest Bluetooth versions with casual 2.4GHz antennas, you can easily increase this as well by taking some simple "bigger" router antennas. An amplifier (2.4GHz) may be a good option too
 
-!<img width="1920" height="1080" alt="Show Wifi Password" src="https://github.com/user-attachments/assets/66d2b1fe-d704-4fe6-b4cd-085e779d8b91" />
+<img width="1920" height="1080" alt="Show Wifi Password (3)" src="https://github.com/user-attachments/assets/5f2bfd19-1018-4413-b20b-28f6687c64b6" />
+<img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/61109d5d-4ab6-4a7c-8732-88f07ad0202f" />
+
