@@ -1,10 +1,9 @@
 # ESP32-Jammer
 
 
+<img width="599" height="71" alt="jjj" src="https://github.com/user-attachments/assets/2bdf6837-ded3-4920-a0cb-b5935721b3a4" />
+<img width="1920" height="1080" alt="Show Wifi Password (1)" src="https://github.com/user-attachments/assets/6a35fc82-455d-4933-bdfb-f207de782cf5" />
 
-
-<img width="896" height="1200" alt="1788261116936" src="https://github.com/user-attachments/assets/0ea40f4a-b58d-4242-a7ca-be89c6095df2" />
-<img width="896" height="1194" alt="1788641830012" src="https://github.com/user-attachments/assets/14359ed0-db36-4687-98d1-398426fec175" />
 
 The device that can block signals and put lives at risk.It interferes with Bluetooth, Wi-Fi, cell phones, and even medical equipment.Improper use can cause serious safety risks.
 
