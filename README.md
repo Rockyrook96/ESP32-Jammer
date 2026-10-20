@@ -3,7 +3,8 @@
 
 <img width="599" height="71" alt="jjj" src="https://github.com/user-attachments/assets/ca780cc7-7560-4e88-bb69-a9e0d1ec3cc2" />
 
-<img width="1920" height="1080" alt="Show Wifi Password (3)" src="https://github.com/user-attachments/assets/1c0a27cf-8d43-4d02-a84f-46e9b13f7ba0" />
+<img width="1920" height="1080" alt="Show Wifi Password (4)" src="https://github.com/user-attachments/assets/e75aa404-3305-4768-af2d-aa2f4998e92a" />
+
 
 
 The device that can block signals and put lives at risk.It interferes with Bluetooth, Wi-Fi, cell phones, and even medical equipment.Improper use can cause serious safety risks.
